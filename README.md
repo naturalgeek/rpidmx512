@@ -1,3 +1,6 @@
+This is a personal for of:
+https://github.com/vanvught/rpidmx512
+
 ## DMX512 / RDM / ArtNet-3 / sACN E1.31 / Pixel controller / MIDI / OSC##
 
 Raspberry Pi Open Source solutions:
